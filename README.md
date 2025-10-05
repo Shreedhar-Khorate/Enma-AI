@@ -38,7 +38,7 @@
 
 1. **Clone the repository**:  
 
-   git clone https://github.com/Shreedhar-Khorate/enma-ai-chatbot.git
+   git clone https://github.com/Shreedhar-Khorate/Enma-AI.git
    cd enma-ai-chatbot
 
 
@@ -91,16 +91,4 @@ See the [LICENSE](./LICENSE) file for details.
 
 > Made with ❤️ by Shreedhar Khorate
 
-```
 
----
-
-You can now:  
-1. Create a file named `README.md` in your project root.  
-2. Paste this content directly.  
-3. Save, commit, and push it to GitHub.  
-
-If you want, I can also **make a version with GitHub-styled modern badges, colors, and emojis** so it looks visually outstanding on your repo.  
-
-Do you want me to do that?
-```
