@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#6200EE</color>
+    <color name="background">#FAFAFA</color>
+
+    <color name="user_message_background">#6200EE</color>
+    <color name="user_message_text">#FFFFFF</color>
+    <color name="bot_message_background">#FFFFFF</color>
+    <color name="bot_message_text">#212121</color>
+
+
+
+    <color name="secondary">#03DAC6</color>
+</resources>
